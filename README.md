@@ -1,7 +1,7 @@
 ### Hi everyone 🌈
 
-
-About me: iOS Developer 💻
-HSE Student 🎓
-21 y.o 
-
+<ul>
+<li>iOS Developer 💻</li>
+<li>HSE Student 🎓</li>
+<li>21 y.o </li>
+</ul>
