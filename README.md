@@ -1,5 +1,7 @@
 ### Hi everyone 🌈
 
+My name is Alim
+
 <ul>
 <li>iOS Developer 💻</li>
 <li>HSE Student 🎓</li>
